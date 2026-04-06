@@ -1,0 +1,79 @@
+Query: Clean energy startups founded after 2018 with fewer than 200 employees
+
+# ----------------------------------------
+Company 1: Parkasol
+# ----------------------------------------
+[HIGH]  score=0.802  llm=0.70  bm25=#0
+Country: SE  |  NAICS: Prefabricated Metal Building and Component Manufacturing
+Employees: 1  Revenue: $767,770
+Description: Parkasol Sweden AB is a Swedish company that develops and distributes climate-smart parking solutions, including carport...
+
+# ----------------------------------------
+Company 2: VASOL TECH
+# ----------------------------------------
+[HIGH]  score=0.797  llm=0.70  bm25=#1
+Country: SE  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employees: 6
+Description: VASOL TECH AB, DBA VASOL TECH, is a Swedish company specialized in providing solar power solutions for remote and crisis...
+
+# ----------------------------------------
+Company 3: Ventum Dynamics
+# ----------------------------------------
+[HIGH]  score=0.797  llm=0.80  bm25=#13
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 14  Revenue: $193,865,443
+Description: Ventum Dynamics, Inc. is a Norwegian company engaged in the design and manufacturing of wind turbines for on-site energy...
+
+# ----------------------------------------
+Company 4: Norhybrid Renewables
+# ----------------------------------------
+[HIGH]  score=0.790  llm=0.70  bm25=#6
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: Norhybrid Renewables AS is a Norwegian private company engaged in the development, manufacturing, and integration of ren...
+
+# ----------------------------------------
+Company 5: Norhybrid Renewables
+# ----------------------------------------
+[HIGH]  score=0.785  llm=0.70  bm25=#7
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: Norhybrid Renewables AS is a Norwegian private company engaged in the development, manufacturing, and integration of ren...
+
+# ----------------------------------------
+Company 6: Verta
+# ----------------------------------------
+[HIGH]  score=0.782  llm=0.70  bm25=#4
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: Verta is a Norwegian company operating in the environmental services and renewables & environment sectors, specializing ...
+
+# ----------------------------------------
+Company 7: Verta
+# ----------------------------------------
+[HIGH]  score=0.777  llm=0.70  bm25=#5
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: Verta is a Norwegian company operating in the environmental services and renewables & environment sectors, specializing ...
+
+# ----------------------------------------
+Company 8: Alotta
+# ----------------------------------------
+[HIGH]  score=0.775  llm=0.75  bm25=#15
+Country: NO  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employees: 11  Revenue: $5,500,000
+Description: Alotta AS, DBA Alotta, is a Norwegian company specialized in renewable energy solutions, with a focus on floating photov...
+
+# ----------------------------------------
+Company 9: Wave Dragon
+# ----------------------------------------
+[HIGH]  score=0.762  llm=0.70  bm25=#8
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 7  Revenue: $6,375,659
+Description: Wave Dragon ApS is a Danish private company engaged in the development and deployment of offshore floating power plant s...
+
+# ----------------------------------------
+Company 10: Sowin Power
+# ----------------------------------------
+[HIGH]  score=0.759  llm=0.75  bm25=#11
+Country: NO  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Revenue: $3,000,000
+Description: Sowin Power AS, DBA Sowin Power, is a Norwegian company specialized in the development and sale of power stations for th...

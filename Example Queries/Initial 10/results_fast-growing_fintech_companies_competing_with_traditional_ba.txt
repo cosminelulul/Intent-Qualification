@@ -1,0 +1,80 @@
+Query: Fast-growing fintech companies competing with traditional banks in Europe.
+
+# ----------------------------------------
+Company 1: European Pay
+# ----------------------------------------
+[HIGH]  score=0.910  llm=0.85  bm25=#0
+Country: FR  |  NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employees: 2  Revenue: $513,657
+Description: ITGC-Infotech Global Consultancy Private Limited, known as European Pay, is a French fintech company that develops and o...
+
+# ----------------------------------------
+Company 2: Phin
+# ----------------------------------------
+[HIGH]  score=0.825  llm=0.75  bm25=#5
+Country: DE  |  NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Revenue: $6,105,946
+Description: Phin is a German private company operating in the financial services sector, specializing in business solutions and serv...
+
+# ----------------------------------------
+Company 3: ECrowd Invest
+# ----------------------------------------
+[HIGH]  score=0.815  llm=0.70  bm25=#1
+Country: ES  |  NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Description: ECrowd Invest is a Spanish private entity operating as an online crowd lending platform specialized in facilitating inve...
+
+# ----------------------------------------
+Company 4: Credito21
+# ----------------------------------------
+[HIGH]  score=0.805  llm=0.80  bm25=#15
+Country: ES  |  NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Revenue: $9,684,255
+Description: Sandiup Global S.L., DBA Credito21, is a Spanish company specialized in providing online credit comparison services and ...
+
+# ----------------------------------------
+Company 5: Aircash
+# ----------------------------------------
+[HIGH]  score=0.755  llm=0.85  bm25=#31
+Country: HR  |  NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employees: 148  Revenue: $5,679,645
+Description: Aircash d.o.o. is a Croatian financial institution and software company that operates as an electronic money institution...
+
+# ----------------------------------------
+Company 6: EasyKassa
+# ----------------------------------------
+[PROBABLE]  score=0.615  llm=0.65  bm25=#35
+Country: AT  |  NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employees: 1  Revenue: $317,781
+Description: EasyKassa is an Austrian company that operates as a service provider in the e-commerce and payment processing sector, of...
+
+# ----------------------------------------
+Company 7: Rantum Capital
+# ----------------------------------------
+[PROBABLE]  score=0.605  llm=0.40  bm25=#7
+Country: DE  |  NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employees: 19  Revenue: $4,688,320
+Description: Rantum Capital Management GmbH, DBA Rantum Capital, is a German private financial services company that provides debt an...
+
+# ----------------------------------------
+Company 8: SkyHarvest
+# ----------------------------------------
+[PROBABLE]  score=0.565  llm=0.30  bm25=#3
+Country: AT  |  NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employees: 2
+Description: SkyHarvest is a company engaged in agricultural finance, focusing on integrating agri-tech, fintech, and insuretech to p...
+
+# ----------------------------------------
+Company 9: Telefónica Venture Builder
+# ----------------------------------------
+[PROBABLE]  score=0.510  llm=0.20  bm25=#2
+Country: ES  |  NAICS: Computer Systems Design Services
+Employees: 100,870  Revenue: $16,873,072,935
+Description: Telefónica Innovación Digital, S.L.U., known as Telefónica Venture Builder, is a Spanish company that operates as a vent...
+
+# ----------------------------------------
+Company 10: Paychex
+# ----------------------------------------
+[BORDERLINE]  score=0.450  llm=0.15  bm25=#8
+Country: DE  |  NAICS: Payroll Services
+Employees: 70  Revenue: $5,398,648
+Description: Paychex Europe Germany GmbH, DBA Paychex, is a German private company specialized in payroll accounting and human resour...

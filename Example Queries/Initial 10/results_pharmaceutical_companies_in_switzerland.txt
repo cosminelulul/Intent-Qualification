@@ -1,0 +1,81 @@
+Query: Pharmaceutical companies in Switzerland
+
+# ----------------------------------------
+Company 1: Sumitomo Pharma Switzerland
+# ----------------------------------------
+[HIGH]  score=0.994  llm=1.00  bm25=#1
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 6,250  Revenue: $3,530,647,340
+Description: Sumitomo Pharma Switzerland GmbH is a Swiss pharmaceutical company engaged in the manufacturing and distribution of phar...
+
+# ----------------------------------------
+Company 2: Novartis
+# ----------------------------------------
+[HIGH]  score=0.988  llm=1.00  bm25=#2
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 75,883  Revenue: $116,048,058,215
+Description: Novartis AG is a Swiss multinational pharmaceutical corporation engaged in the development, manufacturing, and distribut...
+
+# ----------------------------------------
+Company 3: Debiopharm
+# ----------------------------------------
+[HIGH]  score=0.965  llm=1.00  bm25=#6
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 420  Revenue: $316,015,121
+Description: Debiopharm International SA is a Swiss biopharmaceutical company engaged in drug development, manufacturing, and digital...
+
+# ----------------------------------------
+Company 4: IBSA
+# ----------------------------------------
+[HIGH]  score=0.959  llm=1.00  bm25=#7
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 1,064  Revenue: $1,627,177,812
+Description: IBSA Institut Biochimique SA is a Swiss pharmaceutical company engaged in the production of therapeutic products, includ...
+
+# ----------------------------------------
+Company 5: ADC Therapeutics
+# ----------------------------------------
+[HIGH]  score=0.948  llm=1.00  bm25=#9
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 310  Revenue: $191,162,807
+Description: ADC Therapeutics SA is a Swiss biotechnology company engaged in the research, development, manufacturing, and commercial...
+
+# ----------------------------------------
+Company 6: CARBOGEN AMCIS
+# ----------------------------------------
+[HIGH]  score=0.942  llm=1.00  bm25=#10
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 719  Revenue: $1,099,568,465
+Description: CARBOGEN AMCIS AG, DBA CARBOGEN AMCIS, is a Swiss pharmaceutical company that operates as a Contract Development and Man...
+
+# ----------------------------------------
+Company 7: Helsinn
+# ----------------------------------------
+[HIGH]  score=0.936  llm=1.00  bm25=#11
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 364  Revenue: $556,666,094
+Description: Helsinn Healthcare SA is a Swiss pharmaceutical company engaged in the research, development, manufacturing, and commerc...
+
+# ----------------------------------------
+Company 8: Siegfried
+# ----------------------------------------
+[HIGH]  score=0.930  llm=1.00  bm25=#12
+Country: CH  |  NAICS: Medicinal and Botanical Manufacturing
+Employees: 3,500  Revenue: $2,105,055,517
+Description: Siegfried AG is a Swiss contract development and manufacturing organization engaged in the production of active pharmace...
+
+# ----------------------------------------
+Company 9: Acino
+# ----------------------------------------
+[HIGH]  score=0.924  llm=1.00  bm25=#13
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 2,473  Revenue: $3,781,964,972
+Description: Acino International AG is a Swiss pharmaceutical company engaged in the development, manufacturing, and international ma...
+
+# ----------------------------------------
+Company 10: CordenPharma
+# ----------------------------------------
+[HIGH]  score=0.923  llm=0.90  bm25=#3
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 1,789  Revenue: $4,664,372,489
+Description: Corden Pharma International GmbH, DBA CordenPharma, is a Swiss contract development and manufacturing organization speci...

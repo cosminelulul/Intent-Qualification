@@ -1,0 +1,81 @@
+Query: Logistic companies in Romania
+
+# ----------------------------------------
+Company 1: Brasov Industrial Portfolio
+# ----------------------------------------
+[HIGH]  score=0.962  llm=0.95
+Country: RO  |  NAICS: General Warehousing and Storage
+Revenue: $1,000,000,000
+Description: Brasov Industrial Portfolio is a Romanian company specialized in the provision of production and logistics facilities, w...
+
+# ----------------------------------------
+Company 2: Compania Națională de Căi Ferate CFR
+# ----------------------------------------
+[HIGH]  score=0.850  llm=0.80
+Country: RO  |  NAICS: Support Activities for Rail Transportation
+Employees: 54,000  Revenue: $5,290,917,696
+Description: Compania Națională de Căi Ferate ”CFR” – SA, known as Compania Națională de Căi Ferate CFR, is a Romanian state-owned co...
+
+# ----------------------------------------
+Company 3: Portul Constanta
+# ----------------------------------------
+[HIGH]  score=0.812  llm=0.75
+Country: RO  |  NAICS: Port and Harbor Operations
+Employees: 6,000  Revenue: $1,727,732,794
+Description: C.N. Administratia Porturilor Maritime S.A. Constanta, known as Portul Constanta, is a Romanian public company that oper...
+
+# ----------------------------------------
+Company 4: Valbur
+# ----------------------------------------
+[HIGH]  score=0.775  llm=0.70
+Country: RO  |  NAICS: Industrial Supplies Merchant Wholesalers
+Revenue: $1,021,169,365
+Description: VALBUR TRADE & INVESTMENT Ltd., DBA Valbur, is a Romanian company specialized in facilitating global trade and investmen...
+
+# ----------------------------------------
+Company 5: STILL
+# ----------------------------------------
+[HIGH]  score=0.775  llm=0.70
+Country: RO  |  NAICS: Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing
+Revenue: $840,574,450
+Description: STILL Material Handling Romania SRL is a Romanian company engaged in the development, production, and distribution of in...
+
+# ----------------------------------------
+Company 6: OSCAR
+# ----------------------------------------
+[HIGH]  score=0.738  llm=0.65
+Country: RO  |  NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Employees: 488  Revenue: $1,097,857,008
+Description: OSCAR DOWNSTREAM S.R.L is a Romanian private company engaged in the distribution and trading of oil and gas products, in...
+
+# ----------------------------------------
+Company 7: Poșta Română
+# ----------------------------------------
+[PROBABLE]  score=0.550  llm=0.40
+Country: RO  |  NAICS: Postal Service
+Employees: 25,000  Revenue: $1,161,768,432
+Description: C.N. Poșta Română S.A. is a Romanian joint stock company engaged in providing universal postal services, including lette...
+
+# ----------------------------------------
+Company 8: Bunge Romania
+# ----------------------------------------
+[PROBABLE]  score=0.475  llm=0.30
+Country: RO  |  NAICS: Soybean and Other Oilseed Processing
+Revenue: $1,506,056,258
+Description: Bunge Romania SRL, DBA Bunge Romania, is a Romanian company specialized in the wholesale supply of agricultural commodit...
+
+# ----------------------------------------
+Company 9: Valtec
+# ----------------------------------------
+[BORDERLINE]  score=0.438  llm=0.25
+Country: RO  |  NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Revenue: $1,035,538,334
+Description: VALTEC Premium Lubricants SRL, DBA Valtec, is a Romanian company specialized in the supply and distribution of lubricant...
+
+# ----------------------------------------
+Company 10: Rompetrol
+# ----------------------------------------
+[BORDERLINE]  score=0.400  llm=0.20
+Country: RO  |  NAICS: Petroleum Refineries
+Revenue: $13,498,241,905
+Description: Rompetrol is a Romanian company specialized in petroleum refining, petrochemical operations, and the distribution of fue...

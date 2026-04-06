@@ -1,0 +1,77 @@
+Query: Companies that could supply packaging materials for a direct-to-consumer cosmetics brand
+
+# ----------------------------------------
+Company 1: Lesopack Cos Packaging
+# ----------------------------------------
+[HIGH]  score=0.978  llm=0.98  bm25=#2
+Country: AU  |  NAICS: Plastics Bottle Manufacturing
+Description: Lesopack Cos Packaging is an Australian manufacturer specialized in custom cosmetic packaging solutions for the beauty i...
+
+# ----------------------------------------
+Company 2: Silver Spur
+# ----------------------------------------
+[HIGH]  score=0.965  llm=0.95  bm25=#1
+Country: US  |  NAICS: All Other Plastics Product Manufacturing
+Employees: 39  Revenue: $76,684,623
+Description: Silver Spur Corporation is an American packaging supply company engaged in the manufacturing and distribution of glass a...
+
+# ----------------------------------------
+Company 3: Crystal International
+# ----------------------------------------
+[HIGH]  score=0.946  llm=0.96  bm25=#6
+Country: CA  |  NAICS: All Other Plastics Product Manufacturing
+Employees: 48  Revenue: $15,130,452
+Description: Crystal International Group Inc., DBA Crystal International, is a Canadian packaging company specialized in plastic inje...
+
+# ----------------------------------------
+Company 4: Sunshine Packaging
+# ----------------------------------------
+[HIGH]  score=0.938  llm=0.93  bm25=#4
+Country: CN  |  NAICS: Plastics Bottle Manufacturing
+Description: Hangzhou Sunshine Packaging Technology Co., Ltd., DBA Sunshine Packaging, is a Chinese company specialized in the design...
+
+# ----------------------------------------
+Company 5: SZ SJ Packaging
+# ----------------------------------------
+[HIGH]  score=0.937  llm=0.92  bm25=#3
+Country: CN  |  NAICS: All Other Plastics Product Manufacturing
+Description: Shenzhen SJ Packaging Co., Ltd, DBA SZ SJ Packaging, is a Chinese manufacturing company specialized in the production of...
+
+# ----------------------------------------
+Company 6: Shenzhen Itop Cosmetic Packaging
+# ----------------------------------------
+[HIGH]  score=0.923  llm=0.98  bm25=#13
+Country: CN  |  NAICS: Plastics Bottle Manufacturing
+Revenue: $5,239,575
+Description: Shenzhen Itop Cosmetic Packaging Co., Ltd. is a Chinese manufacturing company engaged in cosmetic packaging solutions. T...
+
+# ----------------------------------------
+Company 7: Standard Mold
+# ----------------------------------------
+[HIGH]  score=0.920  llm=0.95  bm25=#10
+Country: KR  |  NAICS: All Other Plastics Product Manufacturing
+Revenue: $13,366,365
+Description: Standard Mold.net, Inc. is a South Korean company engaged in the manufacturing and supply of cosmetic packaging and cont...
+
+# ----------------------------------------
+Company 8: Minh Trang Packaging
+# ----------------------------------------
+[HIGH]  score=0.919  llm=0.94  bm25=#9
+Country: VN  |  NAICS: Plastics Bottle Manufacturing
+Revenue: $1,257,035
+Description: Minh Trang Packaging Co., Ltd. (CÔNG TY TNHH BAO BÌ MINH TRANG) is a Vietnamese company engaged in the manufacturing and...
+
+# ----------------------------------------
+Company 9: SHEACK Packaging
+# ----------------------------------------
+[HIGH]  score=0.892  llm=0.92  bm25=#12
+Country: CN  |  NAICS: All Other Plastics Product Manufacturing
+Employees: 7  Revenue: $5,239,575
+Description: SHEACK Packaging is a Chinese packaging company engaged in providing packaging solutions for consumer goods, including p...
+
+# ----------------------------------------
+Company 10: Wenjing Packaging
+# ----------------------------------------
+[HIGH]  score=0.891  llm=0.96  bm25=#17
+Country: CN  |  NAICS: Plastics Bottle Manufacturing
+Description: Jincheng Wenjing Packaging, DBA Wenjing Packaging, is a Chinese manufacturer specialized in the design, production, and ...

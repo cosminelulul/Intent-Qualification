@@ -1,0 +1,79 @@
+Query: Clean energy startups founded after 2018 with fewer than 200 employees
+
+# ----------------------------------------
+Company 1: Verta
+# ----------------------------------------
+[HIGH]  score=0.857  llm=0.80  bm25=#1
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: Verta is a Norwegian company operating in the environmental services and renewables & environment sectors, specializing ...
+
+# ----------------------------------------
+Company 2: Parkasol
+# ----------------------------------------
+[HIGH]  score=0.832  llm=0.75  bm25=#0
+Country: SE  |  NAICS: Prefabricated Metal Building and Component Manufacturing
+Employees: 1  Revenue: $767,770
+Description: Parkasol Sweden AB is a Swedish company that develops and distributes climate-smart parking solutions, including carport...
+
+# ----------------------------------------
+Company 3: VASOL TECH
+# ----------------------------------------
+[HIGH]  score=0.832  llm=0.80  bm25=#6
+Country: SE  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employees: 6
+Description: VASOL TECH AB, DBA VASOL TECH, is a Swedish company specialized in providing solar power solutions for remote and crisis...
+
+# ----------------------------------------
+Company 4: Ventum Dynamics
+# ----------------------------------------
+[HIGH]  score=0.827  llm=0.80  bm25=#7
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 14  Revenue: $193,865,443
+Description: Ventum Dynamics, Inc. is a Norwegian company engaged in the design and manufacturing of wind turbines for on-site energy...
+
+# ----------------------------------------
+Company 5: Norhybrid Renewables
+# ----------------------------------------
+[HIGH]  score=0.825  llm=0.85  bm25=#17
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: Norhybrid Renewables AS is a Norwegian private company engaged in the development, manufacturing, and integration of ren...
+
+# ----------------------------------------
+Company 6: Sowin Power
+# ----------------------------------------
+[HIGH]  score=0.824  llm=0.85  bm25=#10
+Country: NO  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Revenue: $3,000,000
+Description: Sowin Power AS, DBA Sowin Power, is a Norwegian company specialized in the development and sale of power stations for th...
+
+# ----------------------------------------
+Company 7: NextGEN Energy
+# ----------------------------------------
+[HIGH]  score=0.805  llm=0.70  bm25=#3
+Country: IT  |  NAICS: Engineering Services
+Employees: 5  Revenue: $793,607
+Description: NextGEN Energy is an Italian company that provides energy storage solutions, including photovoltaic systems, power conve...
+
+# ----------------------------------------
+Company 8: RJETech
+# ----------------------------------------
+[HIGH]  score=0.795  llm=0.75  bm25=#11
+Country: CN  |  NAICS: Battery Manufacturing
+Employees: 2  Revenue: $120,689
+Description: Guangzhou Rongjie Energy Technology Co., Ltd., DBA RJETech, is a Chinese company specialized in the research and develop...
+
+# ----------------------------------------
+Company 9: Lundeseter Solcellepark
+# ----------------------------------------
+[HIGH]  score=0.784  llm=0.80  bm25=#12
+Country: NO  |  NAICS: Semiconductor and Related Device Manufacturing
+Description: Lundeseter Solcellepark is a Norwegian business entity specialized in the development and production of solar panels, op...
+
+# ----------------------------------------
+Company 10: Mitra Chem
+# ----------------------------------------
+[HIGH]  score=0.770  llm=0.75  bm25=#16
+Country: US  |  NAICS: Battery Manufacturing
+Employees: 60  Revenue: $10,152,175
+Description: Mitra Chem Incorporated is an American private company engaged in the development and manufacturing of lithium-ion batte...

@@ -1,0 +1,81 @@
+Query: Public software companies with more than 1,000 employees.
+
+# ----------------------------------------
+Company 1: Alcon
+# ----------------------------------------
+[HIGH]  score=1.000  bm25=#0
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 1,000  Revenue: $386,892,954
+Description: Alcon Pharmaceuticals Ltd. is a global pharmaceutical company engaged in ophthalmic pharmaceutical products and services...
+
+# ----------------------------------------
+Company 2: PulteGroup
+# ----------------------------------------
+[HIGH]  score=0.982  bm25=#1
+Country: US  |  NAICS: New Housing For-Sale Builders
+Employees: 7,523  Revenue: $10,109,819,333
+Description: PulteGroup, Inc. is an American homebuilding company engaged in the construction and sale of residential properties. The...
+
+# ----------------------------------------
+Company 3: Globant
+# ----------------------------------------
+[HIGH]  score=0.965  bm25=#2
+Country: LU  |  NAICS: Computer Systems Design Services
+Employees: 29,150  Revenue: $1,178,707,576
+Description: Globant S.A. is an international IT and software development company engaged in AI-driven software development, business...
+
+# ----------------------------------------
+Company 4: Leidos
+# ----------------------------------------
+[HIGH]  score=0.947  bm25=#3
+Country: US  |  NAICS: Computer Systems Design Services
+Employees: 48,000  Revenue: $27,977,712,699
+Description: Leidos, Inc. is an American company that operates as a systems integrator, engineering firm, and information technology ...
+
+# ----------------------------------------
+Company 5: Vestas
+# ----------------------------------------
+[HIGH]  score=0.930  bm25=#4
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 35,100  Revenue: $57,215,276,900
+Description: Vestas Wind Systems A/S is a Danish manufacturing company engaged in the design, production, installation, and servicing...
+
+# ----------------------------------------
+Company 6: Lululemon
+# ----------------------------------------
+[HIGH]  score=0.912  bm25=#5
+Country: US  |  NAICS: Clothing and Clothing Accessories Retailers
+Employees: 39,000  Revenue: $9,309,007,637
+Description: Lululemon Athletica Inc. is a Canadian multinational company engaged in the retail of technical apparel, athletic shoes,...
+
+# ----------------------------------------
+Company 7: EPAM
+# ----------------------------------------
+[HIGH]  score=0.895  bm25=#6
+Country: US  |  NAICS: Custom Computer Programming Services
+Employees: 62,050  Revenue: $13,373,358,770
+Description: EPAM Systems, Inc. is an American software engineering company that provides software engineering, digital platform engi...
+
+# ----------------------------------------
+Company 8: Novartis
+# ----------------------------------------
+[HIGH]  score=0.877  bm25=#7
+Country: CH  |  NAICS: Pharmaceutical Preparation Manufacturing
+Employees: 75,883  Revenue: $116,048,058,215
+Description: Novartis AG is a Swiss multinational pharmaceutical corporation engaged in the development, manufacturing, and distribut...
+
+# ----------------------------------------
+Company 9: Concentrix
+# ----------------------------------------
+[HIGH]  score=0.859  bm25=#8
+Country: US  |  NAICS: Computer Systems Design Services
+Employees: 440,000  Revenue: $146,777,605,645
+Description: Concentrix Corporation is an American technology and services company that provides enterprise technology solutions, bus...
+
+# ----------------------------------------
+Company 10: CGI
+# ----------------------------------------
+[HIGH]  score=0.842  bm25=#9
+Country: CA  |  NAICS: Computer Systems Design Services
+Employees: 95,000  Revenue: $19,128,497,746
+Description: CGI Inc. is a Canadian multinational information technology consulting and software development company. The company pro...

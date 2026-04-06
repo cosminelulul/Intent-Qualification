@@ -1,0 +1,78 @@
+Query: Food and beverage manufacturers in France
+
+# ----------------------------------------
+Company 1: Domaine Godeau
+# ----------------------------------------
+[HIGH]  score=1.000  bm25=#0
+Country: FR  |  NAICS: Wineries
+Description: Domaine Godeau is a French beverage manufacturer and wine producer operating in the food production sector. The company ...
+
+# ----------------------------------------
+Company 2: Geyer
+# ----------------------------------------
+[HIGH]  score=0.984  bm25=#1
+Country: FR  |  NAICS: Soft Drink Manufacturing
+Description: Geyer is a French beverage manufacturer specializing in food production, with a focus on the beverage sector. The compan...
+
+# ----------------------------------------
+Company 3: Dechelette Estate
+# ----------------------------------------
+[HIGH]  score=0.967  bm25=#2
+Country: FR  |  NAICS: Wineries
+Description: Dechelette Estate is a French beverage manufacturer and food producer operating in the food production sector. The compa...
+
+# ----------------------------------------
+Company 4: Club-Mate
+# ----------------------------------------
+[HIGH]  score=0.951  bm25=#3
+Country: FR  |  NAICS: Soft Drink Manufacturing
+Employees: 19  Revenue: $56,786,905
+Description: Club-Mate is a French food and beverage manufacturer specializing in the production of natural, yerba mate-infused spark...
+
+# ----------------------------------------
+Company 5: Famille Pouille
+# ----------------------------------------
+[HIGH]  score=0.935  bm25=#4
+Country: FR  |  NAICS: All Other Miscellaneous Food Manufacturing
+Revenue: $200,000
+Description: Famille Pouille is a French company specialized in the manufacturing and production of food and beverage products. The c...
+
+# ----------------------------------------
+Company 6: La Péro
+# ----------------------------------------
+[HIGH]  score=0.919  bm25=#5
+Country: FR  |  NAICS: Wineries
+Employees: 3  Revenue: $823,062
+Description: La Péro is a French company engaged in the production and export of alcoholic beverages, with a focus on wine-based drin...
+
+# ----------------------------------------
+Company 7: L'Essinganaise
+# ----------------------------------------
+[HIGH]  score=0.902  bm25=#6
+Country: FR  |  NAICS: Specialty Canning
+Revenue: $200,000
+Description: L'Essinganaise is a French company specialized in the manufacturing and online sale of prepared and cooked African dishe...
+
+# ----------------------------------------
+Company 8: Kermené
+# ----------------------------------------
+[HIGH]  score=0.886  bm25=#7
+Country: FR  |  NAICS: Meat Processed from Carcasses
+Employees: 1,013  Revenue: $1,288,290,730
+Description: Kermené is a French company specialized in the production and distribution of butcher and charcuterie products for the f...
+
+# ----------------------------------------
+Company 9: Produit en Bretagne
+# ----------------------------------------
+[HIGH]  score=0.870  bm25=#8
+Country: FR  |  NAICS: Civic and Social Organizations
+Employees: 1  Revenue: $12,910,982,151
+Description: Produit en Bretagne is a French collective network that represents and supports companies across Brittany, spanning sect...
+
+# ----------------------------------------
+Company 10: Riviera Kombucha
+# ----------------------------------------
+[HIGH]  score=0.854  bm25=#9
+Country: FR  |  NAICS: Soft Drink Manufacturing
+Revenue: $4,540,894
+Description: Riviera Kombucha is a French company engaged in the production and distribution of kombucha beverages, with a focus on a...

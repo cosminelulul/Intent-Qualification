@@ -1,0 +1,79 @@
+Query: Renewable energy equipment manufacturers in Scandinavia
+
+# ----------------------------------------
+Company 1: Wave Dragon
+# ----------------------------------------
+[HIGH]  score=0.980  llm=1.00  bm25=#4
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 7  Revenue: $6,375,659
+Description: Wave Dragon ApS is a Danish private company engaged in the development and deployment of offshore floating power plant s...
+
+# ----------------------------------------
+Company 2: Norhybrid Renewables
+# ----------------------------------------
+[HIGH]  score=0.920  llm=0.95  bm25=#10
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: Norhybrid Renewables AS is a Norwegian private company engaged in the development, manufacturing, and integration of ren...
+
+# ----------------------------------------
+Company 3: Next Fabrication
+# ----------------------------------------
+[HIGH]  score=0.910  llm=0.90  bm25=#6
+Country: DK  |  NAICS: Fabricated Structural Metal Manufacturing
+Employees: 4  Revenue: $6,343,512
+Description: Next Fabrication A/S is a Danish manufacturing company engaged in the production of metal and composite parts for renewa...
+
+# ----------------------------------------
+Company 4: DEIF Wind Power Technology
+# ----------------------------------------
+[HIGH]  score=0.870  llm=0.85  bm25=#8
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: DEIF A/S, DBA DEIF Wind Power Technology, is a Danish company specialized in control solutions for decentralized power p...
+
+# ----------------------------------------
+Company 5: Againity
+# ----------------------------------------
+[HIGH]  score=0.870  llm=0.95  bm25=#20
+Country: SE  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 26  Revenue: $14,264,324
+Description: Againity AB, DBA Againity, is a Swedish private company specialized in the manufacturing and supply of Organic Rankine C...
+
+# ----------------------------------------
+Company 6: BlueTec Vest
+# ----------------------------------------
+[HIGH]  score=0.865  llm=0.80  bm25=#3
+Country: NO  |  NAICS: Semiconductor and Related Device Manufacturing
+Revenue: $18,970,982
+Description: Bluetec Vest AS is a Norwegian company engaged in the manufacturing of solar panel systems and renewable energy solution...
+
+# ----------------------------------------
+Company 7: Climatico
+# ----------------------------------------
+[HIGH]  score=0.830  llm=0.90  bm25=#22
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: Climatico ApS is a Danish company engaged in the production and installation of renewable energy solutions, including wi...
+
+# ----------------------------------------
+Company 8: Parkasol
+# ----------------------------------------
+[HIGH]  score=0.820  llm=0.70  bm25=#0
+Country: SE  |  NAICS: Prefabricated Metal Building and Component Manufacturing
+Employees: 1  Revenue: $767,770
+Description: Parkasol Sweden AB is a Swedish company that develops and distributes climate-smart parking solutions, including carport...
+
+# ----------------------------------------
+Company 9: Alotta
+# ----------------------------------------
+[HIGH]  score=0.805  llm=0.80  bm25=#15
+Country: NO  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employees: 11  Revenue: $5,500,000
+Description: Alotta AS, DBA Alotta, is a Norwegian company specialized in renewable energy solutions, with a focus on floating photov...
+
+# ----------------------------------------
+Company 10: VASOL TECH
+# ----------------------------------------
+[HIGH]  score=0.805  llm=0.85  bm25=#21
+Country: SE  |  NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employees: 6
+Description: VASOL TECH AB, DBA VASOL TECH, is a Swedish company specialized in providing solar power solutions for remote and crisis...

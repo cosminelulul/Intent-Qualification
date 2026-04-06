@@ -1,0 +1,81 @@
+Query: Construction companies in the United States with revenue over $50 million
+
+# ----------------------------------------
+Company 1: DPR Construction
+# ----------------------------------------
+[HIGH]  score=1.000  bm25=#0
+Country: US  |  NAICS: Commercial and Institutional Building Construction
+Employees: 9,000  Revenue: $9,530,130,452
+Description: DPR Construction, Inc. is an American general contractor and construction management company engaged in technically comp...
+
+# ----------------------------------------
+Company 2: Focus Civil Construction Group
+# ----------------------------------------
+[HIGH]  score=0.987  bm25=#1
+Country: US  |  NAICS: Commercial and Institutional Building Construction
+Revenue: $10,705,547,711
+Description: F-C Construction LLC, DBA Focus Civil Construction Group, is a United States construction management, design-build, and ...
+
+# ----------------------------------------
+Company 3: Lemartec
+# ----------------------------------------
+[HIGH]  score=0.974  bm25=#2
+Country: US  |  NAICS: Commercial and Institutional Building Construction
+Employees: 170  Revenue: $15,779,739,398
+Description: Lemartec Corporation, DBA Lemartec, is an American construction management and general contracting company specialized i...
+
+# ----------------------------------------
+Company 4: nan
+# ----------------------------------------
+[HIGH]  score=0.961  bm25=#3
+Country: US  |  NAICS: Toilet Preparation Manufacturing
+Revenue: $62,599,067
+Description: Bodis, LLC is a United States company specialized in the production and distribution of beauty cosmetics and cosmetic pa...
+
+# ----------------------------------------
+Company 5: EMCOR Group
+# ----------------------------------------
+[HIGH]  score=0.948  bm25=#4
+Country: US  |  NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Employees: 40,400  Revenue: $11,695,838,612
+Description: EMCOR Group, Inc. is an American company that operates in mechanical and electrical construction, industrial and energy ...
+
+# ----------------------------------------
+Company 6: Skanska
+# ----------------------------------------
+[HIGH]  score=0.935  bm25=#5
+Country: US  |  NAICS: Commercial and Institutional Building Construction
+Employees: 33,585  Revenue: $11,332,448,300
+Description: Skanska AB is a Swedish construction and development company engaged in project development, construction, and developme...
+
+# ----------------------------------------
+Company 7: Trusted Solutions Group
+# ----------------------------------------
+[HIGH]  score=0.922  bm25=#6
+Country: US  |  NAICS: Commercial and Institutional Building Construction
+Employees: 2  Revenue: $9,902,488,503
+Description: Trusted Solutions Group Inc., DBA Trusted Solutions Group, is an American construction services company specialized in l...
+
+# ----------------------------------------
+Company 8: PulteGroup
+# ----------------------------------------
+[HIGH]  score=0.909  bm25=#7
+Country: US  |  NAICS: New Housing For-Sale Builders
+Employees: 7,523  Revenue: $10,109,819,333
+Description: PulteGroup, Inc. is an American homebuilding company engaged in the construction and sale of residential properties. The...
+
+# ----------------------------------------
+Company 9: Halmar International
+# ----------------------------------------
+[HIGH]  score=0.896  bm25=#8
+Country: US  |  NAICS: Highway, Street, and Bridge Construction
+Employees: 250  Revenue: $10,776,195,538
+Description: Halmar International, LLC is an American construction company engaged in heavy civil infrastructure projects, including ...
+
+# ----------------------------------------
+Company 10: Solid Power
+# ----------------------------------------
+[HIGH]  score=0.857  bm25=#11
+Country: US  |  NAICS: Battery Manufacturing
+Employees: 206  Revenue: $85,415,079
+Description: Solid Power Inc., DBA Solid Power, is an American company specialized in the development of all-solid-state battery tech...

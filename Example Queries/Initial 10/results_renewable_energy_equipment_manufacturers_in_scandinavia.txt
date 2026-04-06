@@ -1,0 +1,79 @@
+Query: Renewable energy equipment manufacturers in Scandinavia
+
+# ----------------------------------------
+Company 1: Wave Dragon
+# ----------------------------------------
+[HIGH]  score=0.960  llm=0.95  bm25=#2
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 7  Revenue: $6,375,659
+Description: Wave Dragon ApS is a Danish private company engaged in the development and deployment of offshore floating power plant s...
+
+# ----------------------------------------
+Company 2: Wave Dragon
+# ----------------------------------------
+[HIGH]  score=0.955  llm=0.95  bm25=#3
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 7  Revenue: $6,375,659
+Description: Wave Dragon ApS is a Danish private company engaged in the development and deployment of offshore floating power plant s...
+
+# ----------------------------------------
+Company 3: Norhybrid Renewables
+# ----------------------------------------
+[HIGH]  score=0.927  llm=0.92  bm25=#5
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: Norhybrid Renewables AS is a Norwegian private company engaged in the development, manufacturing, and integration of ren...
+
+# ----------------------------------------
+Company 4: Norhybrid Renewables
+# ----------------------------------------
+[HIGH]  score=0.922  llm=0.92  bm25=#6
+Country: NO  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: Norhybrid Renewables AS is a Norwegian private company engaged in the development, manufacturing, and integration of ren...
+
+# ----------------------------------------
+Company 5: Parkasol
+# ----------------------------------------
+[HIGH]  score=0.910  llm=0.85  bm25=#0
+Country: SE  |  NAICS: Prefabricated Metal Building and Component Manufacturing
+Employees: 1  Revenue: $767,770
+Description: Parkasol Sweden AB is a Swedish company that develops and distributes climate-smart parking solutions, including carport...
+
+# ----------------------------------------
+Company 6: DEIF Wind Power Technology
+# ----------------------------------------
+[HIGH]  score=0.910  llm=0.95  bm25=#12
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: DEIF A/S, DBA DEIF Wind Power Technology, is a Danish company specialized in control solutions for decentralized power p...
+
+# ----------------------------------------
+Company 7: DEIF Wind Power Technology
+# ----------------------------------------
+[HIGH]  score=0.905  llm=0.95  bm25=#13
+Country: DK  |  NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Description: DEIF A/S, DBA DEIF Wind Power Technology, is a Danish company specialized in control solutions for decentralized power p...
+
+# ----------------------------------------
+Company 8: WindSpider
+# ----------------------------------------
+[HIGH]  score=0.870  llm=0.95  bm25=#20
+Country: NO  |  NAICS: Construction Machinery Manufacturing
+Employees: 10  Revenue: $193,865,443
+Description: WindSpider is a Norwegian company specialized in the development and manufacturing of lifting solutions for the installa...
+
+# ----------------------------------------
+Company 9: CIRKEL Energi
+# ----------------------------------------
+[HIGH]  score=0.860  llm=0.85  bm25=#10
+Country: DK  |  NAICS: Semiconductor and Related Device Manufacturing
+Employees: 4  Revenue: $122,254,865
+Description: CIRKEL Energi ApS is a Danish private company engaged in the production, supply, and installation of green energy soluti...
+
+# ----------------------------------------
+Company 10: CIRKEL Energi
+# ----------------------------------------
+[HIGH]  score=0.855  llm=0.85  bm25=#11
+Country: DK  |  NAICS: Semiconductor and Related Device Manufacturing
+Employees: 4  Revenue: $122,254,865
+Description: CIRKEL Energi ApS is a Danish private company engaged in the production, supply, and installation of green energy soluti...

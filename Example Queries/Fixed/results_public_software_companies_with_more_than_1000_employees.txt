@@ -1,0 +1,81 @@
+Query: Public software companies with more than 1,000 employees
+
+# ----------------------------------------
+Company 1: EPAM
+# ----------------------------------------
+[HIGH]  score=0.860  llm=0.80  bm25=#3
+Country: US  |  NAICS: Custom Computer Programming Services
+Employees: 62,050  Revenue: $13,373,358,770
+Description: EPAM Systems, Inc. is an American software engineering company that provides software engineering, digital platform engi...
+
+# ----------------------------------------
+Company 2: Globant
+# ----------------------------------------
+[HIGH]  score=0.820  llm=0.70  bm25=#0
+Country: LU  |  NAICS: Computer Systems Design Services
+Employees: 29,150  Revenue: $1,178,707,576
+Description: Globant S.A. is an international IT and software development company engaged in AI-driven software development, business...
+
+# ----------------------------------------
+Company 3: Concentrix
+# ----------------------------------------
+[HIGH]  score=0.779  llm=0.70  bm25=#6
+Country: US  |  NAICS: Computer Systems Design Services
+Employees: 440,000  Revenue: $146,777,605,645
+Description: Concentrix Corporation is an American technology and services company that provides enterprise technology solutions, bus...
+
+# ----------------------------------------
+Company 4: CGI
+# ----------------------------------------
+[HIGH]  score=0.773  llm=0.70  bm25=#7
+Country: CA  |  NAICS: Computer Systems Design Services
+Employees: 95,000  Revenue: $19,128,497,746
+Description: CGI Inc. is a Canadian multinational information technology consulting and software development company. The company pro...
+
+# ----------------------------------------
+Company 5: Fujitsu
+# ----------------------------------------
+[HIGH]  score=0.761  llm=0.95  bm25=#31
+Country: JP  |  NAICS: Computer Systems Design Services
+Employees: 124,000  Revenue: $56,668,130,586
+Description: Fujitsu Limited is a Japanese multinational corporation engaged in information and communications technology (ICT) equip...
+
+# ----------------------------------------
+Company 6: ASGN
+# ----------------------------------------
+[HIGH]  score=0.759  llm=0.70  bm25=#9
+Country: US  |  NAICS: Computer Systems Design Services
+Employees: 21,000  Revenue: $5,917,532,636
+Description: ASGN Incorporated is an American information technology services company that provides IT consulting, professional staff...
+
+# ----------------------------------------
+Company 7: Capgemini
+# ----------------------------------------
+[HIGH]  score=0.753  llm=0.60  bm25=#1
+Country: CA  |  NAICS: Computer Systems Design Services
+Employees: 341,100  Revenue: $53,148,270,656
+Description: Capgemini Canada Inc. is a Canadian management and IT consulting company engaged in providing services across applicatio...
+
+# ----------------------------------------
+Company 8: DWS Group
+# ----------------------------------------
+[HIGH]  score=0.726  llm=0.60  bm25=#5
+Country: AU  |  NAICS: Computer Systems Design Services
+Employees: 227,481  Revenue: $1,580,480,112
+Description: DWS Limited, known as DWS Group, is an Australian consulting company engaged in IT, business, and management consulting ...
+
+# ----------------------------------------
+Company 9: Tietoevry
+# ----------------------------------------
+[HIGH]  score=0.722  llm=0.65  bm25=#10
+Country: FI  |  NAICS: Computer Systems Design Services
+Employees: 23,632  Revenue: $4,334,057,488
+Description: Tietoevry Oyj is a Finnish company engaged in software development, digital engineering, and IT consulting. The company ...
+
+# ----------------------------------------
+Company 10: Tata Consultancy Services
+# ----------------------------------------
+[PROBABLE]  score=0.716  llm=0.65  bm25=#11
+Country: IN  |  NAICS: Computer Systems Design Services
+Employees: 607,979  Revenue: $5,009,783,346
+Description: Tata Consultancy Services Limited is an Indian multinational technology company that provides information technology con...

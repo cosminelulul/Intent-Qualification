@@ -1,0 +1,79 @@
+Query: Companies that manufacture or supply critical components for electric vehicle battery production
+
+# ----------------------------------------
+Company 1: Kunlun New Materials
+# ----------------------------------------
+[HIGH]  score=0.960  llm=0.95  bm25=#2
+Country: CN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Revenue: $25,000,000
+Description: Xianghe Kunlun New Energy Materials Co., Ltd. (香河昆仑新能源材料股份有限公司), known as Kunlun New Materials (昆仑新材), is a Chinese comp...
+
+# ----------------------------------------
+Company 2: Nascent Materials
+# ----------------------------------------
+[HIGH]  score=0.945  llm=0.95  bm25=#5
+Country: US  |  NAICS: Battery Manufacturing
+Employees: 2  Revenue: $30,370,795
+Description: Nascent Materials Inc. is an American company engaged in the development and manufacturing of cathode materials for lith...
+
+# ----------------------------------------
+Company 3: Dongdao New Energy
+# ----------------------------------------
+[HIGH]  score=0.940  llm=0.95  bm25=#6
+Country: CN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Revenue: $9,130,445
+Description: Guangdong Dongdao New Energy Co., Ltd. (广东东岛新能源股份有限公司) is a Chinese company engaged in the research, development, produc...
+
+# ----------------------------------------
+Company 4: Altmin
+# ----------------------------------------
+[HIGH]  score=0.925  llm=0.95  bm25=#9
+Country: IN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Employees: 16  Revenue: $865,718
+Description: Altmin Private Limited is an Indian private company engaged in the development and manufacturing of battery materials an...
+
+# ----------------------------------------
+Company 5: Hunan Yueneng New Energy Battery Material Co., Ltd.
+# ----------------------------------------
+[HIGH]  score=0.920  llm=0.95  bm25=#10
+Country: CN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Revenue: $7,608,704
+Description: Hunan Yueneng New Energy Battery Material Co., Ltd. (湖南裕能新能源电池材料股份有限公司), DBA Hunan Yueneng New Energy Battery Material C...
+
+# ----------------------------------------
+Company 6: Li Hongte
+# ----------------------------------------
+[HIGH]  score=0.910  llm=0.95  bm25=#12
+Country: CN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Description: Li Hongte New Energy Materials Co., Ltd. (陕西力宏特新能源材料有限公司), DBA Li Hongte (力宏特), is a Chinese company specialized in the ...
+
+# ----------------------------------------
+Company 7: POLYENTECH
+# ----------------------------------------
+[HIGH]  score=0.900  llm=0.90  bm25=#8
+Country: CN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Revenue: $7,608,704
+Description: GUANGDONG POLYENTECH CO., LTD, DBA POLYENTECH, is a Chinese company specialized in the research, development, production...
+
+# ----------------------------------------
+Company 8: East Saint先行
+# ----------------------------------------
+[HIGH]  score=0.895  llm=0.85  bm25=#3
+Country: CN  |  NAICS: Battery Manufacturing
+Revenue: $6,391,311
+Description: East Saint先行 (亿博电竞东圣先行) is a Chinese high-tech enterprise engaged in the research, development, production, sales, and s...
+
+# ----------------------------------------
+Company 9: Rusaccum
+# ----------------------------------------
+[HIGH]  score=0.875  llm=0.90  bm25=#13
+Country: RU  |  NAICS: Battery Manufacturing
+Revenue: $5,610,317
+Description: Rusaccum LLC (ООО «РУСАККУМ»), DBA Rusaccum (Русаккум), is a Russian limited liability company specialized in the develo...
+
+# ----------------------------------------
+Company 10: Shenzhen Atsm Energy
+# ----------------------------------------
+[HIGH]  score=0.870  llm=0.95  bm25=#20
+Country: CN  |  NAICS: Other Basic Inorganic Chemical Manufacturing
+Description: Shenzhen Atsm Energy Co., Ltd., DBA Shenzhen Atsm Energy, is a Chinese company specialized in the research, development,...
