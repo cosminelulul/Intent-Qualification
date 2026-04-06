@@ -74,7 +74,7 @@ Where:
 ---
 # 2. Tradeoffs:
 
-## ### What was optimised for:
+## What was optimised for:
 
 - **Cost over raw accuracy.** The LLM is the only genuinely expensive component. The architecture is designed so that the LLM only ever sees candidates that have already been pre-filtered by cheap stages.
 	- Example on the given dataset: At 477 companies and 10 queries, the total cost was $0.134. The LLM rerank stager an on at most 50 companies per query, batched into ~5 API calls, rather than 477 sequential calls.
@@ -161,3 +161,7 @@ When a query specifies "Europe," the region map expands to about 40 country code
 - **Zero-survivor fallback rate**: if this triggers frequently, hard filters are too aggressive or the decomposition is hallucinating unsupported filter fields
 - **Deduplication rate**: a high deduplication rate signals source data quality issues (many duplicate records) that should be addressed upstream
 - **Rerank parse error rate**: logged as `[warn] rerank parse error` -> if this exceeds ~2% of batches, the rerank prompt needs adjustment for the model being used
+
+---
+
+Extra: 13 .txt files avaible as query results
