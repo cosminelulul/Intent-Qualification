@@ -164,4 +164,4 @@ When a query specifies "Europe," the region map expands to about 40 country code
 
 ---
 
-Extra: 13 .txt files avaible as query results
+For more results: there are 13 .txt files available which show the results of 10 query results, with 3 additional retests
