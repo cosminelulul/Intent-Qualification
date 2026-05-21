@@ -17,7 +17,7 @@ The system is designed around this distinction.
 The pipeline has **five** stages, but with an important observation: not every query will be sent through all 5 stages. The architecture only sends each query through the stages it really needs, based on a complexity classification made at the time of decomposition.
 
 This is a visuals schema of the architecture:
-[Schema](Schema.png)
+![Schema](Schema.png)
 
 The design was chosen after better analysing the naive approach of sing LLMs. While they offer great accuracy and strong semantics, Large Language Models are not magic, even at a small sample size(of 477) companies, there's a lot of potential to optimize the use of LLMs, and this approach reduces LLM calls by a wide margin. Complexity of the query directly affects the cost/time of the ranking. 
 
